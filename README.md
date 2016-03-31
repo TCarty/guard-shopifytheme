@@ -99,7 +99,8 @@ end
 
 - Danny Smith ([@dannysmith](http://github.com/dannysmith))
 - Shopfy_Theme by Shopify ([@shopify](https://github.com/Shopify))
-
+- This has been editied for no reason at all...other than educational
+-POINTLESS LEARNING!!
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dannysmith/guard-shopifytheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
